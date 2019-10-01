@@ -1,16 +1,19 @@
 # Tina's Visit to NYC
 
-Tina, here is a list of recommendations that include both brunch and places to stop for a drink and views of the city. 
+Tina, I put together a list of recommendations that include restaurants for brunch and bars to stop in for a cocktail! 
 
 **Brunch recommendations**
-One of my favorite brunch spots is [Barbounia](https://barbounia.com/), it does not have a view, but it is beautiful and is always a fun environment. It includes a $19 unlimited mimosas with brunch! [Bagatelle](http://bagatellenyc.com/about/) is a staple in NYC for wild brunches, it is a club scene if you want dancing and loud music! [RH Rooftop Restaurant New York
-](https://www.restorationhardware.com/content/category.jsp?context=NewYork) is gorgeous. It is Restoration Hardware's restaurant inside their retail store. If you do not go there for brunch, I do recommend stopping there for a drink! And lastly, [Industry Kitchen](https://www.industry-kitchen.com/) is on the water in South Street, fairly close to the Memorial, with beautiful views of the Brooklyn and Manhattan bridges! 
+
+One of my favorite brunch spots in the city is [Barbounia](https://barbounia.com/). It does not have a view, but it is beautiful and is always a fun scene, especially since it includes $19 unlimited mimosas with brunch! Next, I recommend [Industry Kitchen](https://www.industry-kitchen.com/), it is on the water in South Street, fairly close to the Memorial, with beautiful views of the Brooklyn and Manhattan bridges! If you are looking for a more 'wild' brunch, [Bagatelle](http://bagatellenyc.com/about/) is a club scene with loud music and dancing! Lastly, [RH Rooftop Restaurant New York
+](https://www.restorationhardware.com/content/category.jsp?context=NewYork) is gorgeous. It is in Restoration Hardware's retail store and has a cool vibe. If you do not go there for brunch, I recommend stopping there for a drink!  
 
 **Drink recommendations**
 
-Since you will be downtown, I recommend stopping in at the [Dead Rabbit](https://www.deadrabbitnyc.com/) for a cocktial. It has consistently ranked as the best cocktails in the world! You will not be disappointed! 
+Since you will be downtown, I recommend stopping in at the [Dead Rabbit](https://www.deadrabbitnyc.com/) for a cocktail. It has consistently ranked as the world's best bar! You will not be disappointed! And if you have some spare time and would like a cocktail with stunning views, I recommend [Mr. Purple](https://www.mrpurplenyc.com) in Hotel Indigo!
 
-List of Recommendations: 
+Let me know if you have any questions or want addiitonal ideas! 
+
+**Summary of Recommendations**
 
 | Name of Place        | Place Type   | View   |
 |:---------------------|:-------------|:-------|
@@ -21,6 +24,7 @@ List of Recommendations:
 | Barbounia            | brunch       | no     |
 | Industry Kitchen     | brunch       | yes    |
 | Memorial             | no           | no     |
+
 
 ![Map](/recommendations_map.png)
 
