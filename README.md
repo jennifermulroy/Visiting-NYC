@@ -4,7 +4,7 @@ Tina, I put together a list of recommendations for your day trip in the city, le
 
 **Brunch recommendations**
 
-One of my favorite brunch spots in the city is [Barbounia](https://barbounia.com/). It does not have a view, but it is beautiful and is always a fun scene, especially since it includes $19 unlimited mimosas with brunch! Next, I recommend [Industry Kitchen](https://www.industry-kitchen.com/), it is on the water in South Street, fairly close to the Memorial, with beautiful views of the Brooklyn and Manhattan bridges! If you are looking for a more 'wild' brunch, [Bagatelle](http://bagatellenyc.com/about/) is a club scene with loud music and dancing! Lastly, [RH Rooftop Restaurant New York
+One of my favorite brunch spots is [Barbounia](https://barbounia.com/). It does not have a view, but it is beautiful and is always a fun scene, especially since it includes $19 unlimited mimosas with brunch! Next, I recommend [Industry Kitchen](https://www.industry-kitchen.com/), it is on the water in South Street, fairly close to the Memorial, with beautiful views of the Brooklyn and Manhattan bridges! If you are looking for a more 'wild' brunch, [Bagatelle](http://bagatellenyc.com/about/) is a club scene with loud music and dancing! Lastly, [RH Rooftop Restaurant New York
 ](https://www.restorationhardware.com/content/category.jsp?context=NewYork) is gorgeous. It is in Restoration Hardware's retail store and has a cool vibe. If you do not go there for brunch, I recommend stopping there for a drink!  
 
 **Drink recommendations**
