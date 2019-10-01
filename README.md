@@ -1,6 +1,6 @@
 # Tina's Visit to NYC
 
-Tina, I put together a list of recommendations that include restaurants for brunch and bars to stop in for a cocktail! 
+Tina, I put together a list of recommendations for your day trip in the city, let me know if you have any questions or want additional ideas!  
 
 **Brunch recommendations**
 
@@ -11,9 +11,8 @@ One of my favorite brunch spots in the city is [Barbounia](https://barbounia.com
 
 Since you will be downtown, I recommend stopping in at the [Dead Rabbit](https://www.deadrabbitnyc.com/) for a cocktail. It has consistently ranked as the world's best bar! You will not be disappointed! And if you have some spare time and would like a cocktail with stunning views, I recommend [Mr. Purple](https://www.mrpurplenyc.com) in Hotel Indigo!
 
-Let me know if you have any questions or want addiitonal ideas! 
 
-**Summary of Recommendations**
+**Summary**
 
 | Name of Place        | Place Type   | View   |
 |:---------------------|:-------------|:-------|
