@@ -1,6 +1,5 @@
-# Tina's Visit to NYC
 
-Tina, I put together a list of recommendations for your day trip in the city, let me know if you have any questions or want additional ideas!  
+I put together a list of recommendations for your day trip in the city, let me know if you have any questions or want additional ideas!  
 
 **Brunch recommendations**
 
