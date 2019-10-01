@@ -14,5 +14,5 @@ List of Recommendations:
 | Industry Kitchen     | brunch       | yes    |
 | Memorial             | no           | no     |
 
-![Map](/Visiting-NYC/recommendations_map.png)
+![Map](/recommendations_map.png)
 
